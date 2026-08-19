@@ -9,8 +9,8 @@ learn and build outside the day job.
 - Time-series forecasting and applied ML
 
 🎶 **Away from the keyboard**
-- Classical double bass player (film scores & Tom Waits, mostly)
-- Beekeeper 🐝, rugby sevens player 🏉, freediver 🌊
+- Double bass player
+- Rugby sevens player 🏉, freediver 🌊
 - Nature and wildlife conservation
 
 Always curious, always building something.
